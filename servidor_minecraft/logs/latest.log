@@ -1325,3 +1325,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:sweet_berries'
 [04Aug2025 21:39:30.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_chestplate
 [04Aug2025 21:39:31.331] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_helmet
 [04Aug2025 21:39:31.331] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_leggings
+[04Aug2025 21:39:34.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_chestplate
+[04Aug2025 21:39:34.031] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_leggings
+[04Aug2025 21:39:39.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_boots
+[04Aug2025 21:39:40.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 chainmail_leggings
+[04Aug2025 21:39:41.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:39:41.982] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 chainmail_boots
+[04Aug2025 21:39:42.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelfran_23 has made the advancement [Stone Age]
+[04Aug2025 21:39:46.931] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_helmet
+[04Aug2025 21:39:46.932] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_chestplate
+[04Aug2025 21:39:48.381] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_helmet
+[04Aug2025 21:39:50.281] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_leggings
+[04Aug2025 21:39:51.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_helmet
+[04Aug2025 21:39:51.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_leggings
+[04Aug2025 21:39:53.081] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:39:56.081] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_leggings
+[04Aug2025 21:39:57.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_helmet
+[04Aug2025 21:39:57.531] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_chestplate
+[04Aug2025 21:39:57.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_leggings
+[04Aug2025 21:39:57.532] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_boots
+[04Aug2025 21:40:00.681] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:40:02.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_helmet
+[04Aug2025 21:40:02.131] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 chainmail_boots
+[04Aug2025 21:40:03.781] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:40:03.781] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_boots
+[04Aug2025 21:40:04.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_helmet
+[04Aug2025 21:40:04.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_boots
+[04Aug2025 21:40:04.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_boots
+[04Aug2025 21:40:04.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:40:06.281] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_helmet
+[04Aug2025 21:40:08.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_helmet
+[04Aug2025 21:40:09.681] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_chestplate
+[04Aug2025 21:40:09.681] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 chainmail_leggings
+[04Aug2025 21:40:10.581] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 leather_leggings
+[04Aug2025 21:40:18.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nelfran_23 lost connection: Disconnected
+[04Aug2025 21:40:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nelfran_23 left the game
+[04Aug2025 21:40:20.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: piales00 lost connection: Disconnected
+[04Aug2025 21:40:20.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: piales00 left the game
+[04Aug2025 21:40:41.681] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_boots
+[04Aug2025 21:40:44.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_helmet
+[04Aug2025 21:40:54.080] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_chestplate
+[04Aug2025 21:40:56.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_leggings
+[04Aug2025 21:40:56.181] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_boots
+[04Aug2025 21:41:34.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Aug2025 21:41:34.530] [Server thread/INFO] [atomicstryker.multimine.common.MultiMine/]: MultiMine ServerStoppingEvent
+[04Aug2025 21:41:34.531] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[04Aug2025 21:41:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Aug2025 21:41:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Aug2025 21:41:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Aug2025 21:41:34.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Aug2025 21:41:35.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mmorpg:dungeon
+[04Aug2025 21:41:35.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/dungeon_realm:dungeon
+[04Aug2025 21:41:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_harvest:harvest
+[04Aug2025 21:41:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Aug2025 21:41:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (harvest): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Aug2025 21:41:35.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Aug2025 21:41:35.920] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Aug2025 21:41:35.921] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[04Aug2025 21:41:35.924] [Server thread/INFO] [Framework/]: Finished unloading server configs
